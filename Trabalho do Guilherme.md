@@ -16,7 +16,7 @@ Na pertinência ele vai criar duas listas ***loop 2***
 
 &#x09;2 - elementos do conjunto
 
-Dai vai pedir o nome ou elemento e vai verificar se já ta no conjunto ou já é um conjunto se não, append 
+Dai vai pedir o nome ou elemento e vai verificar se já ta no conjunto ou já é um conjunto se não, append
 
 Listar os conjuntos e seus elementos no loop
 
@@ -29,4 +29,10 @@ ta dando errado
 &#x09;os elementos fica na direita na mesma linha
 
 &#x09;não sei fazer isso
+
+
+
+add lista de conjunto no menu 2
+
+arrumar essa bosta
 
