@@ -13,7 +13,8 @@ while entrada1 != "5":
                     conjunto[nomeconjunto] = []
                 else: print ("Esse conjunto já existe.\n")
                 entrada2 = input ("Você escolheu Pertinência.\nDigite o que você quer fazer:\n1 - Adicionar um conjunto\n2- Adicionar um elemento a um conjunto\n3 - Verificar se um elemento pertence a um conjunto\n4 - Voltar ao menu principal\n")
-                
+                  
+
             elif entrada2 == "2":
                 print("Conjuntos:", conjunto, "\n")
                 nomeconjunto = input ("Digite o nome do conjunto que você quer adicionar um elemento:\n")
